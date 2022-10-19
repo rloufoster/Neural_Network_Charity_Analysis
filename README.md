@@ -1,9 +1,6 @@
-              # Neural Networks and Deep Machine Learning
+# Neural Networks and Deep Machine Learning
 
-<p align="center">
-    <img width="500" height="300" src= "https://github.com/rloufoster/Neural_Network_Charity_Analysis/blob/main/Images/Neural_Network2.jpeg?raw=true">
-</p> 
-
+![Header](https://github.com/rloufoster/Neural_Network_Charity_Analysis/blob/main/Images/Neural_Network2.jpeg?raw=true)
 
 ## Overview:
 
