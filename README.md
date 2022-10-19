@@ -1,6 +1,6 @@
 # Neural Networks and Deep Machine Learning
 
-![Neural_Network2]()
+![Neural_Network2](https://github.com/rloufoster/Neural_Network_Charity_Analysis/blob/main/Images/Neural_Network2.jpeg?raw=true)
 
 ## Overview:
 
@@ -59,13 +59,13 @@ The source data supplied to us was a csv file containing 34,000 organizations th
    
  * The target performance for the accuracy rate is greater than 75%. The model that was created only achieved an accuracy rate of 72.33%
 
-![Model1]()
+![Model1](https://github.com/rloufoster/Neural_Network_Charity_Analysis/blob/main/Images/Model1.png?raw=true)
 
 ### Deliverable 3:  Optimization Rounds
 
 In order to attempt to improve accuracy rate, three optimization rounds were conducted that included adjustments such as adding/subtracting neurons and epochs.  The results showed no improvement.
 
-![Optimization]()
+![Optimization](https://github.com/rloufoster/Neural_Network_Charity_Analysis/blob/main/Images/OptimizationResults.png?raw=true)
 
 
  * **Optimization 1:
