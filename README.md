@@ -4,11 +4,11 @@
 
 ## Overview:
 
-The purpose of this analysis was to explore and implement neural networks using TensorFlow in Python.  Neural networks is an advanced form of Machine Learning that can recognize patterns and features in the dataset. Neural networks are modeled after the human brain and contain layers of neurons that can perform individual computations.  A great example of a dDeep Learnning Neural Network would be image recognition.  The neural network will compute, connect, weigh and return an encoded categorical result to identify if the image represents a "dog" or a "cat".
+The purpose of this analysis was to explore and implement neural networks using TensorFlow in Python.  Neural networks is an advanced form of Machine Learning that can recognize patterns and features in the dataset. Neural networks are modeled after the human brain and contain layers of neurons that can perform individual computations.  A great example of a Deep Learnning Neural Network would be image recognition.  The neural network computes, connects, weighs and returns an encoded categorical result as demonstrated above.
 
 #### AlphabetSoup
 
-AlphabetSoup, a philanthropic foundation and is requesting for a data-driven solution that will help determine which organizations should be prioritized when it comes to the distribution of funds. Some past recipients have proven to not be the best stewards of AplphabetSoup funds, and moving forward, the foundation would prefer to be more selective in the distribution of funds in order to get the most impact for their donors. Beks, a data scientist for AlphabetSoup is tasked with analyzing the impact of each donation and vet the recipients to determine if the company's money will be used effectively, and what organizations may be "high risk". In order to accomplish this request, we are tasked with helping Beks create a binary classifier that will predict whether an organization will be successful with their funding. We utilize Deep Learning Neural Networks to evaluate the input data and produce clear decision making results.
+AlphabetSoup, a philanthropic foundation is requesting a data-driven solution that will help determine which organizations should be prioritized when it comes to the distribution of funds. Some past recipients have proven to not be the best stewards of AplphabetSoup funds, and moving forward, the foundation would prefer to be more selective in the assignment of coveted funds in order to get the most impact for their donors. Beks, a data scientist for AlphabetSoup is tasked with analyzing the impact of each donation and vet the recipients to determine if the company's money will be used effectively, and what organizations may be "high risk" for misusing funds. In order to accomplish this request, Beks and AlphabetSoup Foundation have contracted us to help create a binary classifier that will predict whether an organization will be successful with their funding. We have utilized Deep Learning Neural Networks to evaluate the input data and produce clear decision making results.
 
 ### Deliverables:
 
@@ -101,5 +101,5 @@ Overall, Neural Networks are very intricate and would require experience through
 
      
      
-     -
+     
  
